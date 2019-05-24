@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chafnu" size="0.040000 0.051098" />
+    <ImageTarget name="133b3f7c-8b76-4edc-9dee-7e0cd76ecff2" size="0.080000 0.106667" />
+  </Tracking>
+</QCARConfig>
